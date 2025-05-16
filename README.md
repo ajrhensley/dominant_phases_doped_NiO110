@@ -1,0 +1,1 @@
+# dominant_phases_doped_NiO110
