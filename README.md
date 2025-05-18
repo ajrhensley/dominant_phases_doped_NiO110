@@ -1,5 +1,5 @@
 # Data and Code Repository for Original Research Article Titled: "Identification of Environment-Dependent Dominant and Metastable Doped NiO(110) Surfaces"
-The original research article is by Shuqiao Wang*, Ram Del Prado*, Kajetan Leitner*, and Alyssa J.R. Hensley*, and is under review in _Surface Science_ (last updated May 16, 2025).
+The original research article is by Shuqiao Wang*, Ram Del Prado*, Kajetan Leitner*, and Alyssa J.R. Hensley*, and is under review in _Surface Science_ (last updated May 18, 2025).
 
 *Department of Chemical Engineering and Materials Science at Stevens Insitute of Technology
 
